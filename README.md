@@ -10,7 +10,7 @@
 
 <h3>Repository</h3>
 
-<p>Repository (also known as "repo") is like a project, where it can have multiple files or is a respository of files.</p>
+<p>Repository (also known as "repo") is like a project, where it can have multiple files or is a repository of files.</p>
 
 <h3>Commit</h3>
 
